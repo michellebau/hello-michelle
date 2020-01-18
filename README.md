@@ -2,9 +2,7 @@
 Created an Android Studio app with various buttons implementing the required and optional user stories listed below. For example, changing text and the color of the app's background through a click of a button.
 
 ### App Walk-though
-<a href="https://imgflip.com/gif/3mhfqj"><img src="https://i.imgflip.com/3mhfqj.gif" title="made at imgflip.com"/></a><br>
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/BOCtcJW"  ><a href="//imgur.com/a/BOCtcJW">HelloMichelle</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="https://imgur.com/a/BOCtcJW" targer="_blank"><img src="https://i.imgur.com/x97jx1u.gif" title="HelloMichelle Walk-through"/></a><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from Michelle!
