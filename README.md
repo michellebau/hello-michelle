@@ -1,9 +1,7 @@
 # HelloMichelle
-Created an Andriod Studio app with various buttons implementing the required and optional user stories listed below. For example, changing text and the color of the app's background through a click of a button.
+Created an Android Studio app with various buttons implementing the required and optional user stories listed below. For example, changing text and the color of the app's background through a click of a button.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 <a href="https://imgflip.com/gif/3mhfqj"><img src="https://i.imgflip.com/3mhfqj.gif" title="made at imgflip.com"/></a><br>
 
 ### Required User Stories
