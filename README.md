@@ -4,7 +4,7 @@ Created an Andriod Studio app with various buttons implementing the required and
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<a href="https://imgflip.com/gif/3mhfqj"><img src="https://i.imgflip.com/3mhfqj.gif" title="made at imgflip.com"/></a><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from Michelle!
