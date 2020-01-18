@@ -4,6 +4,8 @@ Created an Android Studio app with various buttons implementing the required and
 ### App Walk-though
 <a href="https://imgflip.com/gif/3mhfqj"><img src="https://i.imgflip.com/3mhfqj.gif" title="made at imgflip.com"/></a><br>
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/BOCtcJW"  ><a href="//imgur.com/a/BOCtcJW">HelloMichelle</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from Michelle!
 - [x] 2. User see's custom background color.
